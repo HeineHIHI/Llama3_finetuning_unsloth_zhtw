@@ -1,4 +1,5 @@
 # Llama3_finetuning_unsloth_zhtw
+This is a practice using the LLama3 model from Unsloth and "ruozhiba" dataset (which translates to Traditional Chinese) to finetuning.
 ## Contents
 ### 1.Install Packages
 ### 2.Test Model
